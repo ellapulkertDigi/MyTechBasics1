@@ -5,3 +5,4 @@ This Project contains all my work for this course, meaning assignments, exercise
 Because I'm just starting this course, I don't really know more details about this repository, but I know working with this will teach me something (:
 
 
+![DigiRaccon](https://github.com/ellapulkertDigi/TechBasics1/blob/main/1200px-Digital_Media_Icon.jpg)
