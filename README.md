@@ -1,4 +1,4 @@
-# TechBasics1
+# MyTechBasics1
 ## *My Repository for Tech Basics 1 in Digital Media*
 
 This Project contains all my work for this course, meaning assignments, exercises and hopefully my own finishing **programming project**.
