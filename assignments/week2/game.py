@@ -1,7 +1,7 @@
 import time
 import  sys
 
-# Typing-Effekt Funktion
+# typing-effect Function (with help from Chat GPT)
 def type_text(text, delay=0.04):
     for char in text:
         sys.stdout.write(char)
@@ -43,7 +43,7 @@ def guessing_number():
         type_text("What do you think 'NUMBER' means?? I think you're mentally not really equipped to hear my story. Wish you a wonderful day. Heads up, keep going, someday you'll be ready.")
         return False
 
-# Function for the real gaming part
+# Function for the rating part
 def story_telling():
     time.sleep(4)
     type_text("So now you want to know why I didn't prepare a game, right? Well, that's funny because...")
