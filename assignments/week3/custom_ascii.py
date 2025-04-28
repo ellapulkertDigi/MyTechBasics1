@@ -49,7 +49,7 @@ for i in range(lines):
             line += " "
     type_text(line, delay=0.005)
 
-# building the faces
+# building the face
 faces_line = (face + " ") * faces_count
 type_text(faces_line.center(width), delay=0.02)
 
