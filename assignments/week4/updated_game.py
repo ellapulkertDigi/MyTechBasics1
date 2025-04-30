@@ -30,7 +30,7 @@ def intro():
         return 'end'
 
 
-# Szene: Spielstart
+# asking the player to start the game
 def scene_starting_game():
     play_or_not = input(
         "If hypothetically there would be some game for you to play, would you play it? Just say 'yes' or 'no': ")
