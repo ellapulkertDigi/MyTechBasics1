@@ -1,5 +1,5 @@
 
-# --- Game State ---
+# --- Game State --
 MAX_BOUQUET_SIZE = 5           # How many flowers/fillers can fit in the bouquet
 
 inventory = []                 # Everything the player carries (bouquet + tools)
@@ -216,7 +216,7 @@ def evaluate_bouquet():
     if len(exotics) >= 3:
         return "The bouquet looks luxurious and exotic – perfect for a grand occasion."
     elif len(exotics) >= 1:
-        return "A balanced bouquet with a hint of the exotic. Very tasteful."
+        return "A balanced bouquet with a hint of the exotic. Very tasteful!"
     else:
         return "A classic, down-to-earth bouquet that will please anyone."
 
